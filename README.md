@@ -14,6 +14,6 @@ if(a >= b):
 else:
     print("False")
 
-#3
+#3 - Length of your name
 name = input("Enter your name: ")
 print("Length of your name is: ", len(name))
