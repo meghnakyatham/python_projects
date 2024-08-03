@@ -18,4 +18,6 @@ else:
 name = input("Enter your name: ")
 print("Length of your name is: ", len(name))
 
-#4 - 
+#4 - String count
+str = "I bought $ is $$$ amount that you won't guess the $$$"
+print(str.count("$"))
