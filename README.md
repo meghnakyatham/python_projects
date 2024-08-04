@@ -21,3 +21,12 @@ print("Length of your name is: ", len(name))
 #4 - String count
 str = "I bought $ is $$$ amount that you won't guess the $$$"
 print(str.count("$"))
+
+#5 - Even or Odd number 
+num = int(input("Enter a number: "))
+rem = num % 2
+if(rem == 0):
+     print("Even number")
+
+else:
+    print("Odd number")
