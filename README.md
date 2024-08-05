@@ -30,3 +30,6 @@ if(rem == 0):
 
 else:
     print("Odd number")
+
+
+#6 - 
