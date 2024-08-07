@@ -43,3 +43,13 @@ elif(num2 > num3):
     print("num2 is greatest")
 else:
     print("num3 is greatest")
+
+
+#6 - Multiple of 7 
+num = int(input("Enter a number: "))
+multiple = num % 7
+
+if(multiple == 0):
+    print("Multiple of 7")
+else:
+    print("Not a multiple of 7")
