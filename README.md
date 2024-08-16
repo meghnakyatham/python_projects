@@ -66,7 +66,7 @@ movies.append(mov2)
 movies.append(mov3)
 print(movies)
 
-
+#8 - 
 list1 = [1,2,1]
 list2 = [2,2,2]
 list3 = ["m", "n", "a", "m"]
