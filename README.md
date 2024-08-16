@@ -65,3 +65,16 @@ movies.append(mov1)
 movies.append(mov2)
 movies.append(mov3)
 print(movies)
+
+
+list1 = [1,2,1]
+list2 = [2,2,2]
+list3 = ["m", "n", "a", "m"]
+
+copy_list1 = list1.copy()
+copy_list1.reverse()
+
+if(copy_list1 == list1):
+    print("Palindrome")
+else:
+    print("Not palindrome")
