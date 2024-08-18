@@ -80,3 +80,5 @@ else:
     print("Not palindrome")
 
 #9 - 
+grade = ["C", "D", "A", "A", "B", "B", "A"]
+print(" number of students that received A grade are:", grade.count("A"))
