@@ -78,4 +78,5 @@ if(copy_list1 == list1):
     print("Palindrome")
 else:
     print("Not palindrome")
-    
+
+#9 - 
