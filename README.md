@@ -66,7 +66,7 @@ movies.append(mov2)
 movies.append(mov3)
 print(movies)
 
-#8 - 
+#8 - Palindrome or not
 list1 = [1,2,1]
 list2 = [2,2,2]
 list3 = ["m", "n", "a", "m"]
@@ -78,3 +78,4 @@ if(copy_list1 == list1):
     print("Palindrome")
 else:
     print("Not palindrome")
+    
