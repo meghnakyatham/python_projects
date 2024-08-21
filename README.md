@@ -79,6 +79,6 @@ if(copy_list1 == list1):
 else:
     print("Not palindrome")
 
-#9 - 
+#9 - .count function
 grade = ["C", "D", "A", "A", "B", "B", "A"]
 print(" number of students that received A grade are:", grade.count("A"))
