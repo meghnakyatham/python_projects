@@ -82,3 +82,8 @@ else:
 #9 - .count function
 grade = ["C", "D", "A", "A", "B", "B", "A"]
 print(" number of students that received A grade are:", grade.count("A"))
+
+#10 - 
+list = ["C", "D", "A", "A", "B", "B", "A"]
+list.sort() # sorts the list in ascending order 
+print(list)
