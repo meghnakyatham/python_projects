@@ -87,3 +87,16 @@ print(" number of students that received A grade are:", grade.count("A"))
 list = ["C", "D", "A", "A", "B", "B", "A"]
 list.sort() # sorts the list in ascending order 
 print(list)
+
+#11 - 
+English = {
+    "Table" : {
+        "Meaning 1" : "A piece of furniture",
+        "Meaning 2" : "List of facts and figures"
+    },
+    "Cat" : "A small animal"
+}
+
+print(type(English))
+print(English["Table"])
+print(English["Cat"])
