@@ -88,7 +88,7 @@ list = ["C", "D", "A", "A", "B", "B", "A"]
 list.sort() # sorts the list in ascending order 
 print(list)
 
-#11 - 
+#11 - //
 English = {
     "Table" : {
         "Meaning 1" : "A piece of furniture",
