@@ -100,3 +100,9 @@ English = {
 print(type(English))
 print(English["Table"])
 print(English["Cat"])
+
+
+#12- 
+subjects = { "Python", "Java", "C++", "Python", "Javascript", "Java", "Python", "Java", "C++", "C"}
+
+print(len(subjects)) # Output will be 5 
