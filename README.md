@@ -102,7 +102,7 @@ print(English["Table"])
 print(English["Cat"])
 
 
-#12- 
+#12- length of the subjects 
 subjects = { "Python", "Java", "C++", "Python", "Javascript", "Java", "Python", "Java", "C++", "C"}
 
 print(len(subjects)) # Output will be 5 
