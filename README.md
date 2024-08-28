@@ -121,3 +121,5 @@ x = int(input("Enter chemistry marks: "))
 marks.update({"chem" : x})
 
 print(marks)
+
+#13 - 
