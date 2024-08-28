@@ -123,3 +123,11 @@ marks.update({"chem" : x})
 print(marks)
 
 #13 - 
+set = {9, "9.0"} #without using built-in data 
+print(set)
+
+set = {
+    ("float", 9.0),
+    ("int", 9)
+}
+print(set)
