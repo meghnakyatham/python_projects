@@ -139,3 +139,7 @@ while i <= 100 :
     i += 1
 
 #15 - 
+i = 100
+while i >= 1 :
+    print(i)
+    i -= 1
