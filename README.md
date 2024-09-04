@@ -145,3 +145,9 @@ while i >= 1 :
     i -= 1
 
 #16- 
+table = int(input("Enter a number: "))
+i = 1
+while i <= 10 :
+    print(i*table)
+    i += 1
+
