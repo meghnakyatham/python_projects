@@ -144,7 +144,7 @@ while i >= 1 :
     print(i)
     i -= 1
 
-#16- 
+#16- Print table 
 table = int(input("Enter a number: "))
 i = 1
 while i <= 10 :
