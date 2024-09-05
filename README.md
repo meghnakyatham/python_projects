@@ -151,7 +151,7 @@ while i <= 10 :
     print(i*table)
     i += 1
 
-#17 - 
+#17 - #Print the elements of the following list using a loop 
 i = 1
 while i <= 10:
     print(i*i)
