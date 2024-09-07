@@ -162,3 +162,5 @@ idx = 0
 while idx <= len(num):
     print(num[idx])
     idx += 1
+
+#18
