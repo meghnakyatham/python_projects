@@ -163,4 +163,6 @@ while idx <= len(num):
     print(num[idx])
     idx += 1
 
-#18-
+#18- 
+
+#19
