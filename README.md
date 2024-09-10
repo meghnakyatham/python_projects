@@ -164,5 +164,12 @@ while idx <= len(num):
     idx += 1
 
 #18- 
+num = [1,4,9,16,26,36,49,64,81,100]
 
+x = 64
+i = 0
+while i < len(num):
+    if(num[i] == x):
+     print("Found at idx", i)
+    i += 1
 #19 - 
