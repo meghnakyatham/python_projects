@@ -163,7 +163,7 @@ while idx <= len(num):
     print(num[idx])
     idx += 1
 
-#18- 
+#18- Print index 
 num = [1,4,9,16,26,36,49,64,81,100]
 
 x = 64
