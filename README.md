@@ -172,4 +172,5 @@ while i < len(num):
     if(num[i] == x):
      print("Found at idx", i)
     i += 1
+    
 #19 - 
