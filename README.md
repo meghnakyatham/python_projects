@@ -180,3 +180,12 @@ for num in list:
     print(num)
 
 #20 -
+tup = (1,4,9,16,25,36,49,64,81,100)
+x = 4
+
+idx = 0
+for ele in tup:
+    if(ele == x):
+        print("found at idx", idx)
+        break 
+    idx += 1
