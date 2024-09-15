@@ -190,4 +190,6 @@ for ele in tup:
         break 
     idx += 1
 
-#21 --
+#21 -
+for el in range(1,101):
+    print(el)
