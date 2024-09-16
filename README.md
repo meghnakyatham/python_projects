@@ -193,3 +193,5 @@ for ele in tup:
 #21 - Printing numbers from 1-100 using ranges
 for el in range(1,101):
     print(el)
+
+#22 - 
