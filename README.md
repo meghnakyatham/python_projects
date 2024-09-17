@@ -198,4 +198,7 @@ for el in range(1,101):
 for el in range (100, 0, -1):
     print(el)
 
-#23 - 
+#23 - Printing table of a number 
+num = int(input("Enter a number: "))
+for el in range(1,11):
+    print(num * el)
