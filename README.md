@@ -197,3 +197,5 @@ for el in range(1,101):
 #22 - Printing numbers in the reverse order that is from 100 to 1
 for el in range (100, 0, -1):
     print(el)
+
+#23 - 
