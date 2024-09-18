@@ -202,3 +202,12 @@ for el in range (100, 0, -1):
 num = int(input("Enter a number: "))
 for el in range(1,11):
     print(num * el)
+
+#24- 
+sum = int(input("Enter a number: "))
+
+add = 0
+for i in range(1, sum+1):
+    add +=i
+   
+print("Total sum = ",add)
