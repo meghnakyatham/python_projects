@@ -203,7 +203,7 @@ num = int(input("Enter a number: "))
 for el in range(1,11):
     print(num * el)
 
-#24- 
+#24- Sum of all the numbers 
 sum = int(input("Enter a number: "))
 
 add = 0
