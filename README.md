@@ -212,4 +212,13 @@ for i in range(1, sum+1):
    
 print("Total sum = ",add)
 
-#25- 
+#25 -
+fact = int(input("Enter a number: "))
+sum = 0
+i = 1
+
+while i <= fact:
+    sum += i
+    i += 1
+
+print("Total sum = ", sum)
