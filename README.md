@@ -211,3 +211,5 @@ for i in range(1, sum+1):
     add +=i
    
 print("Total sum = ",add)
+
+#25- 
