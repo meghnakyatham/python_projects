@@ -212,7 +212,7 @@ for i in range(1, sum+1):
    
 print("Total sum = ",add)
 
-#25 -
+#25 - Sum 
 fact = int(input("Enter a number: "))
 sum = 0
 i = 1
