@@ -222,3 +222,5 @@ while i <= fact:
     i += 1
 
 print("Total sum = ", sum)
+
+#26- 
