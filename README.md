@@ -232,3 +232,11 @@ for i in range(1, num+1):
 print("Factorial = ", fact)
 
 #27 - 
+cities = ["Delhi", "Mumbai", "Gurgaon", "Noida", "Pune"]
+heroes = ["Captain America", "Thor", "Ironman", "Shaktiman" ]
+
+def print_len(cities):
+    print(len(cities))
+
+print_len(cities)
+print_len(heroes)
