@@ -241,7 +241,7 @@ def print_len(cities):
 print_len(cities)
 print_len(heroes)
 
-#28- 
+#28- Printing elements
 cities = ["Mumbai", "Pune", "Chennai", "Noida", "Gurgaon"]
 heroes = ["Captain America", "Thor", "Ironman", "Shaktiman"]
 
