@@ -255,3 +255,5 @@ def print_len(cities):
     pass 
 
 print_elements(heroes)
+
+#29 - 
