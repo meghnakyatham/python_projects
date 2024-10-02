@@ -272,3 +272,6 @@ def converter(usd_value):
     print(usd_value, "USD = ", inr_value, "INR")
 
 converter(73)
+
+
+#31 - 
