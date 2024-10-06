@@ -256,7 +256,7 @@ def print_len(cities):
 
 print_elements(heroes)
 
-#29 - 
+#29 - Factorial 
 num = int(input("Enter n: "))
 def fact(num):
     fact = 1
