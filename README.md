@@ -274,7 +274,7 @@ def converter(usd_value):
 converter(73)
 
 
-#31 - 
+#31 - summation
 def sum(n):
     if(n == 0):
         return 0
