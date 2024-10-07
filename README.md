@@ -283,3 +283,11 @@ def sum(n):
 print(sum(10))
 
 #32 - 
+def print_list(list,idx = 0):
+    if(idx == len(list)):
+        return 
+    print(list[idx])
+    print_list(list,idx+1)
+
+list = ["Meghna", "Kyatham", "Student", "Amity university mumbai"]
+print_list(list)
