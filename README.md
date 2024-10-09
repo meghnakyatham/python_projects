@@ -291,3 +291,13 @@ def print_list(list,idx = 0):
 
 list = ["Meghna", "Kyatham", "Student", "Amity university mumbai"]
 print_list(list)
+
+#33- 
+with open("practice.txt", "r") as f:
+     data = f.read()
+
+new_data = data.replace("Java", "Python")
+print(new_data)
+
+with open("practice.txt", "w") as f:
+     f.write(new_data)
