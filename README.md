@@ -292,7 +292,7 @@ def print_list(list,idx = 0):
 list = ["Meghna", "Kyatham", "Student", "Amity university mumbai"]
 print_list(list)
 
-#33- 
+#33 - 
 with open("practice.txt", "r") as f:
      data = f.read()
 
