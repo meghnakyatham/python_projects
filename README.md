@@ -302,7 +302,7 @@ print(new_data)
 with open("practice.txt", "w") as f:
      f.write(new_data)
 
-#34- 
+#34- Recursion factorial
 def fact(n):
     if (n == 0 or n == 1):
         return 1
