@@ -311,7 +311,7 @@ def fact(n):
 
 print(fact(6))
 
-#35-
+#35- recursion
 def show(n):
     if(n == 0):
         return
