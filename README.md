@@ -319,3 +319,5 @@ def show(n):
     show(n-1)
 
 show(6)
+
+#36-
