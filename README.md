@@ -333,6 +333,7 @@ print(a > b)  #true
 print(a < b)  #false
 
 #37 - New python project 
+//Ideas
 
 
 
