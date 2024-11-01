@@ -335,6 +335,8 @@ print(a < b)  #false
 #37 - New python project 
 //Ideas
 
+print
+
 
 
 
