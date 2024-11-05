@@ -1,3 +1,4 @@
+
 #1 - Area of square -
 sideofsquare = int(input("Enter the side of a square: "))
 
