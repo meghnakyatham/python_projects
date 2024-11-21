@@ -370,7 +370,7 @@ while True:
         break
 
 A project using python 
-
+Python project
 
 
 
