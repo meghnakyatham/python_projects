@@ -377,6 +377,8 @@ Python project
 
 int main() {
   Write me a code for python;
+  int age;
+  
 }
 
 
