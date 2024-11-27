@@ -376,7 +376,6 @@ Python project
 #include <math.h>
 
 int main() {
-  Write me a code for python;
   int age;
   name char;
 }
