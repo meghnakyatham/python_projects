@@ -378,6 +378,6 @@ Python project
 int main() {
   int age;
   name char;
-  }//
+  }
 
 
