@@ -379,6 +379,7 @@ int main() {
   int age;
   char name;
   float percent;
+  bool boolean;
   }
 
 
