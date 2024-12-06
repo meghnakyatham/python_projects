@@ -380,6 +380,8 @@ int main() {
   char name;
   float percent;
   bool boolean;
+
+  return 0;
   }
 
 
