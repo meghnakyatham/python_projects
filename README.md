@@ -381,6 +381,7 @@ int main() {
   float percent;
   bool boolean;
 
+  printf("
   return 0;
   }
 
