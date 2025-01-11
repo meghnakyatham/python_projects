@@ -381,6 +381,8 @@ int main() {
   float percent;
   bool boolean;
 
+  printf("Enter the age: ");
+
   printf("
   return 0;
   }
