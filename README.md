@@ -382,8 +382,8 @@ int main() {
   bool boolean;
 
   printf("Enter the age: ");
+  scanf("%d", &age);
 
-  printf("
   return 0;
   }
 
