@@ -13,7 +13,7 @@ b = int(input("Enter b : "))
 if(a >= b):
     print("True")
 else:
-    print("False")
+    print("False"
 
 #3 - Length of your name
 name = input("Enter your name: ")
