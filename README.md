@@ -383,6 +383,8 @@ int main() {
 
   printf("Enter the age: ");
   scanf("%d", &age);
+  printf(" Enter the name: ");
+  scanf("
 
   return 0;
   }
