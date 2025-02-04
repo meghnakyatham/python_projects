@@ -385,6 +385,7 @@ int main() {
   scanf("%d", &age);
   printf(" Enter the name: ");
   scanf("%d", &name);
+  printf("Enter percentage: ");
 
   return 0;
   }
