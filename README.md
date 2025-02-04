@@ -386,6 +386,7 @@ int main() {
   printf(" Enter the name: ");
   scanf("%d", &name);
   printf("Enter percentage: ");
+  scanf("%f", &percent);
 
   return 0;
   }
