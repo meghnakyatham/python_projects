@@ -380,7 +380,7 @@ int main() {
   char name;
   float percent;
   bool boolean;
-
+  char book;
   printf("Enter the age: ");
   scanf("%d", &age);
   printf(" Enter the name: ");
