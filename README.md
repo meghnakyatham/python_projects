@@ -389,7 +389,6 @@ int main() {
   scanf("%f", &percent);
   printf(" Enter book name: ");
   
-dhj
   return 0;
   }
 
