@@ -5,7 +5,7 @@ area = sideofsquare*sideofsquare
 
 print("Area of square: ", area)
 
-#2 - Greater number true or ;false 
+#2 - Greater number true or false 
 a = int(input("Enter a : "))
 b = int(input("Enter b : "))
 
